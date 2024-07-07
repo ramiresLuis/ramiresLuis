@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I'd like to change the world, but I can't get the source code**
 
-- ## Languages
+ Languages
 
 - **Spanish** (Native)
 - **English** (Fluent)
