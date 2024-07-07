@@ -10,6 +10,13 @@
 
 - ⚡ Fun fact **I'd like to change the world, but I can't get the source code**
 
+- ## Languages
+
+- **Spanish** (Native)
+- **English** (Fluent)
+- **Portuguese** (Intermediate)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luis-rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-rodriguez" height="30" width="40" /></a>
